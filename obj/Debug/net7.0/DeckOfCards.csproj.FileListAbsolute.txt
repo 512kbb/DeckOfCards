@@ -1,0 +1,15 @@
+C:\Users\yungv\bootcamp-codingdojo\csharp\DeckOfCards\obj\Debug\net7.0\DeckOfCards.csproj.AssemblyReference.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\DeckOfCards\obj\Debug\net7.0\DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yungv\bootcamp-codingdojo\csharp\DeckOfCards\obj\Debug\net7.0\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\DeckOfCards\obj\Debug\net7.0\DeckOfCards.AssemblyInfo.cs
+C:\Users\yungv\bootcamp-codingdojo\csharp\DeckOfCards\obj\Debug\net7.0\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\DeckOfCards\bin\Debug\net7.0\DeckOfCards.exe
+C:\Users\yungv\bootcamp-codingdojo\csharp\DeckOfCards\bin\Debug\net7.0\DeckOfCards.deps.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\DeckOfCards\bin\Debug\net7.0\DeckOfCards.runtimeconfig.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\DeckOfCards\bin\Debug\net7.0\DeckOfCards.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\DeckOfCards\bin\Debug\net7.0\DeckOfCards.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\DeckOfCards\obj\Debug\net7.0\DeckOfCards.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\DeckOfCards\obj\Debug\net7.0\refint\DeckOfCards.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\DeckOfCards\obj\Debug\net7.0\DeckOfCards.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\DeckOfCards\obj\Debug\net7.0\DeckOfCards.genruntimeconfig.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\DeckOfCards\obj\Debug\net7.0\ref\DeckOfCards.dll
